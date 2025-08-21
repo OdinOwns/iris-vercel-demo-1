@@ -1,0 +1,4 @@
+{
+  "compilerOptions": { "jsx": "preserve", "lib": ["dom", "es2020"], "module": "esnext", "target": "es2020" },
+  "include": ["app/**/*"]
+}
